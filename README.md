@@ -1,5 +1,5 @@
 # Sorting Animations Program
-This is a JavaFX that can be used to visualize sorting animations
+This is a JavaFX program that can be used to visualize sorting animations
 It allows the user to generate data that is random, ascending, or descending with their choice of the size
 The user can then choose which algorithm to use to sort the data
 The algorithms include: Insertion Sort, Selection Sort, Shell Sort, Heap Sort, and three variations of QuickSort
