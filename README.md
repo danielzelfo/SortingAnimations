@@ -5,16 +5,16 @@ The user can then choose which algorithm to use to sort the data. The algorithms
 The user has the option to control the speed of the sorting animation.
 
 ### Heap Sort on Random Data
-![Heap Sort](https://danielzelfo.github.io/img/sortingAnim/heaprand.gif)
+![Heap Sort](https://danielzelfo.github.io/img/min/sortingAnim/heaprand.gif)
 
 ### Median of 3 Quick Sort on Decreasing Data
-![Quick Sort 3](https://danielzelfo.github.io/img/sortingAnim/quick3dec.gif)
+![Quick Sort 3](https://danielzelfo.github.io/img/min/sortingAnim/quick3dec.gif)
 
 ### Quick Sort on Random Data
-![Quick Sort](https://danielzelfo.github.io/img/sortingAnim/quickrand.gif)
+![Quick Sort](https://danielzelfo.github.io/img/min/sortingAnim/quickrand.gif)
 
 ### Selection Sort on Random Data
-![Selection Sort](https://danielzelfo.github.io/img/sortingAnim/selectrand.gif)
+![Selection Sort](https://danielzelfo.github.io/img/min/sortingAnim/selectrand.gif)
 
 ### Shell Sort on Descreasing Data
-![Shell Sort](https://danielzelfo.github.io/img/sortingAnim/shelldec.gif)
+![Shell Sort](https://danielzelfo.github.io/img/min/sortingAnim/shelldec.gif)
